@@ -1,4 +1,4 @@
-# 👋 About Me
+## About Me
 
 안녕하세요. **기술 기반 창업가**를 목표로 성장 중인 백엔드 개발자 **홍길동**입니다.  
 단순히 코드를 작성하는 것을 넘어서, **서비스의 기획 → 개발 → 운영 → 사업화**까지  
@@ -6,16 +6,16 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 🧩 Language & Backend
+### Language & Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-### ⚙️ Build & Tools
+### Build & Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
@@ -23,35 +23,33 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1488C6?style=flat&logo=docker&logoColor=white)
 
-### ☁️ Infra
+### Infra
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
-### 💾 Database
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🤝 Collaboration & Docs
+### Collaboration & Docs
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
-# 💼 Projects
+## 💼 Projects
 
 ## 🏷 공식당 (Gongsikdang) — 교내 학교식당 예약 및 결제 플랫폼
 > 교내 학생들이 메뉴를 확인하고, 예약 및 결제를 진행한 후 리뷰를 남길 수 있는 웹 플랫폼  
 > **1인 백엔드 개발 담당**, 프론트엔드 3인(React)과 협업  
 > Docker + Railway 기반 배포, 교내 해커톤 **우수상 수상작**
-
----
 
 ### 기술 스택
 - **Backend**: Java, Spring Boot 3.x, MySQL, Maven
@@ -63,8 +61,6 @@
 - **Collab**: Notion 기반 기획 문서화 및 GitHub 협업
 
 📎 Swagger API 문서 (서버 비활성화 중): https://gongsikdang-be-production.up.railway.app/swagger-ui/swagger-ui/index.html#/
-
----
 
 ### 주요 기능
 1. **메뉴 확인**
@@ -89,8 +85,6 @@
 6. **리뷰 시스템**
    - 결제 완료 사용자 대상 리뷰 등록/조회 가능
    - 관리자 없이 자유 CRUD 가능
-
----
 
 ### 🏆 수상 이력
 - **교내 해커톤 우수상 수상작**
