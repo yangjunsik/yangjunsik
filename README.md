@@ -1,8 +1,8 @@
 # 👋 About Me
 
-- 안녕하세요. **기술 기반 창업가**를 목표로 성장 중인 백엔드 개발자 **홍길동**입니다.  
-- 단순히 코드를 작성하는 것을 넘어서, **서비스의 기획 → 개발 → 운영 → 사업화**까지  
-- 전 과정을 이해하고 주도할 수 있는 역량을 키우고 있습니다.
+안녕하세요. **기술 기반 창업가**를 목표로 성장 중인 백엔드 개발자 **홍길동**입니다.  
+단순히 코드를 작성하는 것을 넘어서, **서비스의 기획 → 개발 → 운영 → 사업화**까지  
+전 과정을 이해하고 주도할 수 있는 역량을 키우고 있습니다.
 
 ---
 
@@ -25,6 +25,7 @@
 ### Infra
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -44,7 +45,7 @@
 
 # 💼 Projects
 
-## 🏷 공식당 (Gongsikdang) — 교내 공간 예약 및 결제 플랫폼
+## 🏷 공식당 (Gongsikdang) — 교내 학교식당 예약 및 결제 플랫폼
 > 교내 학생들이 메뉴를 확인하고, 예약 및 결제를 진행한 후 리뷰를 남길 수 있는 웹 플랫폼  
 > **1인 백엔드 개발 담당**, 프론트엔드 3인(React)과 협업  
 > Docker + Railway 기반 배포, 교내 해커톤 **우수상 수상작**
