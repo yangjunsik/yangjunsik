@@ -4,7 +4,9 @@
 단순히 코드를 작성하는 것을 넘어서, **서비스의 기획 → 개발 → 운영 → 사업화**까지  
 전 과정을 이해하고 주도할 수 있는 역량을 키우고 있습니다.
 
-### 🎓<font color="skyblue">Education & Certification</font>
+---
+
+### 🎓 Education & Certification
 
 - **경북대학교 | 물리학과 (본전공) / 컴퓨터공학과 (복수전공)**
 - **코리아 IT 아카데미 | 백엔드 개발자 양성과정 수료 (6개월)**
@@ -12,20 +14,24 @@
   - Java, Spring (Maven 기반), SQL, HTML/CSS, JavaScript 등 웹 백엔드 전반 학습
   - **팀 프로젝트**: 학습 관리 웹사이트 개발 (백엔드 담당 / Spring MVC 기반)
     - Git을 통한 협업 경험
-    - 역할 분담 및 기획 → 구현 전 과정을 실습avaScript 등 웹 백엔드 전반 학습
-  - 개인 프로젝트 및 REST API 설계 실습 경험
+    - 역할 분담 및 기획 → 구현 전 과정을 실습
 - **정보처리기사 (Engineer Information Processing)**
   - 한국산업인력공단 국가기술자격
   - 취득 연도: 2024
 
-### 🎓<font color="skyblue">Activities</font>
+---
+
+### 🎓 Activities
 
 - **경북대학교 IT대학 학술동아리 해달 (2024 ~ 현재)**  
 - **경북대학교 중앙동아리 솔라이브 (2025 ~ 현재)**  
   - 창업 아이템 기획 및 팀 빌딩 활동  
   - 초기 MVP 설계 및 사업 모델 구체화 진행 중
 
-### 🎓<font color="skyblue">수상 이력</font>
+---
+
+### 🏆 Awards
+
 - **교내 해커톤 우수상 수상작**
 
 ---
