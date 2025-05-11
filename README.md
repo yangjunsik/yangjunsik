@@ -1,17 +1,97 @@
-## stack
+# 👋 About Me
+
+- 안녕하세요. **기술 기반 창업가**를 목표로 성장 중인 백엔드 개발자 **홍길동**입니다.  
+- 단순히 코드를 작성하는 것을 넘어서, **서비스의 기획 → 개발 → 운영 → 사업화**까지  
+- 전 과정을 이해하고 주도할 수 있는 역량을 키우고 있습니다.
+
 ---
 
-<!--
-**yangjunsik/yangjunsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack
 
-Here are some ideas to get you started:
+### Language & Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Build & Tool
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1488C6?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### Infra
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Frontend
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Collaboration & Docs
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+---
+
+# 💼 Projects
+
+## 🏷 공식당 (Gongsikdang) — 교내 공간 예약 및 결제 플랫폼
+> 교내 학생들이 메뉴를 확인하고, 예약 및 결제를 진행한 후 리뷰를 남길 수 있는 웹 플랫폼  
+> **1인 백엔드 개발 담당**, 프론트엔드 3인(React)과 협업  
+> Docker + Railway 기반 배포, 교내 해커톤 **우수상 수상작**
+
+---
+
+### 기술 스택
+- **Backend**: Java, Spring Boot 3.x, MySQL, Maven
+- **ORM 미사용**: JPA 대신 SQL 직접 작성하여 유연한 쿼리 제어
+- **Security**: JWT 기반 로그인 인증
+- **Frontend**: React.js (프론트 팀과 협업), Axios
+- **Infra**: Dockerfile 컨테이너화 → Railway 배포
+- **Docs**: Swagger API 문서 제공 *(현재 서버 중지 상태)*
+- **Collab**: Notion 기반 기획 문서화 및 GitHub 협업
+
+📎 Swagger API 문서 (서버 비활성화 중): https://gongsikdang-be-production.up.railway.app/swagger-ui/swagger-ui/index.html#/
+
+---
+
+### 주요 기능
+1. **메뉴 확인**
+   - 카테고리별 메뉴 출력 API
+   - 결제 시 수량 차감 및 재고 반영
+
+2. **예약 제한**
+   - **2시간 전부터만 예약 가능** (예약 시각 제한 로직)
+
+3. **JWT 로그인 인증**
+   - 로그인/회원가입 및 JWT 발급
+   - 모든 사용자 API에 토큰 기반 인증 적용
+
+4. **테스트 결제 기능 (QR 기반)**
+   - 포트원(아임포트) API 연동으로 QR 결제 구현
+   - **결제 완료 후 24시간 경과 시 예약 자동 삭제**
+
+5. **포인트 충전 기능**
+   - 마이페이지에서 사용자 포인트 충전
+   - 결제 시 포인트 사용 가능
+
+6. **리뷰 시스템**
+   - 결제 완료 사용자 대상 리뷰 등록/조회 가능
+   - 관리자 없이 자유 CRUD 가능
+
+---
+
+### 🏆 수상 이력
+- **교내 해커톤 우수상 수상작**
+  - 완성도 높은 MVP 구현 및 실사용을 고려한 구조로 수상
+
+
