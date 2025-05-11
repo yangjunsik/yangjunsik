@@ -12,6 +12,9 @@
 - **코리아 IT 아카데미 | 백엔드 개발자 양성과정 수료 (6개월)**
   - *전문교육 이수증 보유*
   - Java, Spring (Maven 기반), SQL, HTML/CSS, JavaScript 등 웹 백엔드 전반 학습
+  - **팀 프로젝트**: 학습 관리 웹사이트 개발 (백엔드 담당 / Spring MVC 기반)
+    - Git을 통한 협업 경험
+    - 역할 분담 및 기획 → 구현 전 과정을 실습avaScript 등 웹 백엔드 전반 학습
   - 개인 프로젝트 및 REST API 설계 실습 경험
 
 - **정보처리기사 (Engineer Information Processing)**
