@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Language & Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-## 💼 Projects
+## Projects
 
 ## 🏷 공식당 (Gongsikdang) — 교내 학교식당 예약 및 결제 플랫폼
 > 교내 학생들이 메뉴를 확인하고, 예약 및 결제를 진행한 후 리뷰를 남길 수 있는 웹 플랫폼  
