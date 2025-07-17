@@ -8,13 +8,10 @@
 
 ### 🎓 Education & Certification
 
-- **경북대학교 | 물리학과 (본전공) / 컴퓨터공학과 (복수전공)**
+- **경북대학교 | 물리학과 (학사)**
+- **경북대학교 | 컴퓨터공학과 (학사)**
 - **코리아 IT 아카데미 | 백엔드 개발자 양성과정 수료 (6개월)**
   - *전문교육 이수증 보유*
-  - Java, Spring (Maven 기반), SQL, HTML/CSS, JavaScript 등 웹 백엔드 전반 학습
-  - **팀 프로젝트**: 학습 관리 웹사이트 개발 (백엔드 담당 / Spring MVC 기반)
-    - Git을 통한 협업 경험
-    - 역할 분담 및 기획 → 구현 전 과정을 실습
 - **정보처리기사 (Engineer Information Processing)**
   - 한국산업인력공단 국가기술자격
   - 취득 연도: 2024
@@ -23,7 +20,6 @@
 
 - **경북대학교 IT대학 학술동아리 해달 (2024 ~ 현재)**  
 - **경북대학교 중앙동아리 솔라이브 (2025 ~ 현재)**  
-  - 창업 아이템 기획 및 팀 빌딩 활동  
   - 초기 MVP 설계 및 사업 모델 구체화 진행 중
 
 ### 🏆 Awards
@@ -33,6 +29,14 @@
 ---
 
 ## Tech Stack
+
+## System Design & Architecture
+
+- ERD(Entity Relationship Diagram) 설계 경험 多
+  - MySQL 기반 정규화 설계 및 관계형 모델링
+- 소프트웨어 아키텍처 설계
+  - API 네이밍, 패키지 구조, JWT 기반 인증 플로우 설계
+  - 확장성과 유지보수를 고려한 모듈 분리 및 인터페이스 추상화
 
 ### Language & Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
@@ -50,12 +54,16 @@
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1488C6?style=flat&logo=docker&logoColor=white)
 
 ### Infra
+![VPC](https://img.shields.io/badge/VPC-0052CC?style=flat&logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-59666C?style=flat&logo=h2&logoColor=white)
 
 ### Frontend
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
@@ -67,6 +75,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![DockerHub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -77,6 +86,6 @@
 > **1인 백엔드 개발 담당**, 프론트엔드 3인(React)과 협업  
 > Docker + Railway 기반 배포, 교내 해커톤 **우수상 수상작**
 
-## ONO — 편의점 개인 맞춤 플랫폼(리펙토링 예정)
-
+## ONO — 편의점 개인 맞춤 플랫폼
+> 편의점끼리 가격 및 행사상품 비교, 커뮤니티로 꿀조합을 공유할 수 있는 웹 플랫폼  
 
