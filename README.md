@@ -30,8 +30,7 @@
 
 ## Tech Stack
 
-## System Design & Architecture
-
+### System Design & Architecture
 - ERD(Entity Relationship Diagram) 설계 경험 多
   - MySQL 기반 정규화 설계 및 관계형 모델링
 - 소프트웨어 아키텍처 설계
