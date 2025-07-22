@@ -86,16 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangjunsik&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
-
-</div>
-
-
----
-
 ## Projects
 
 ## 공식당 (Gongsikdang) — 교내 학교식당 예약 및 결제 플랫폼
