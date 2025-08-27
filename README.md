@@ -27,12 +27,13 @@
     
 - 경북대학교 창업동아리 솔라이브 (2025.03. ~ 현재)
     
-- AYNO 스타트업팀 **CTO** 및 공동대표 (2025.05. ~ 현재)
+- AYNO 스타트업팀 예비창업자 (2025.05. ~ 현재)
 
 ### 🎓 Contest
 
 - KBMC(Korea Business Model Challenge) 대한민국 대표 선발 창업 아이디어 경진대회 본선팀
 - 2024 하반기 해달 해커톤 우수상
+- 2025 부산 DIVE 데이터 해커톤 발제사 주택보증공사 3등상
 
 ---
 
@@ -83,16 +84,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![DockerHub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## Projects
-
-## 공식당 (Gongsikdang) — 교내 학교식당 예약 및 결제 플랫폼
-> 교내 학생들이 메뉴를 확인하고, 예약 및 결제를 진행한 후 리뷰를 남길 수 있는 웹 플랫폼  
-> **1인 백엔드 개발 담당**, 프론트엔드 3인(React)과 협업  
-> Docker + Railway 기반 배포, 교내 해커톤 **우수상 수상작**
-
-## ONO — 편의점 개인 맞춤 플랫폼
-> 편의점끼리 가격 및 행사상품 비교, 커뮤니티로 꿀조합을 공유할 수 있는 웹 플랫폼  
 
