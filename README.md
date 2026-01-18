@@ -37,9 +37,13 @@
 ### 🎓 Contest
 
 - KBMC(Korea Business Model Challenge) 대한민국 대표 선발 창업 아이디어 경진대회 본선팀
+- 
 - 2024 하반기 해달 해커톤 우수상
+- 
 - 2025 부산 DIVE 데이터 해커톤 발제사 주택보증공사 3등상
+- 
 - 2025년 북구 청년 창업 아이디어 오디션 동상
+- 
 - 2025년 대학 X Upstage AI Agent 해커톤 우수상
 
 ---
