@@ -61,9 +61,9 @@ Notion, Git, Figma 기반 협업 규칙을 정립하여 소통 마찰을 줄이�
 
 ### 🏆 Honors & Contest
 
-- 2024년 KBMC(Korea Business Model Challenge) 대한민국 대표 선발 창업 아이디어 경진대회 **본선팀**
-  
 - 2024년 하반기 해달 해커톤 **우수상** 
+  
+- 2025년 KBMC(Korea Business Model Challenge) 대한민국 대표 선발 창업 아이디어 경진대회 **본선팀**
   
 - 2025년 부산 DIVE 글로벌 데이터 해커톤 **3등상**
   
